@@ -16,4 +16,4 @@ A simple **Java-based Ticket Queue Management System** implemented using a **sin
 - Linked List Data Structure
 - Object-Oriented Programming (OOP)
 
-## 📂 Project Structure
+
